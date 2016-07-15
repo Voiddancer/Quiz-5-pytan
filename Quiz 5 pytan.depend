@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1462830155 source:d:\projekty c++\quiz 5 pytan\main.cpp
+	<iostream>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+	<stdio.h>
+	<iomanip>
+	<fstream>
+	<algorithm>
+	<string>
+
